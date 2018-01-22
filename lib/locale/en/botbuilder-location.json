@@ -5,7 +5,7 @@
     "AskForPrefix": "OK %s.",
     "AskForTemplate": " Please also provide the %s.",
     "CancelPrompt": "OK, cancelled.",
-    "ConfirmationAsk": "OK, I will fetch events near to %s. Is that correct? Enter 'yes' or 'no'.",
+    "ConfirmationAsk": "OK, I will fetch data near to %s. Is that correct? Enter 'yes' or 'no'.",
     "Country": "country",
     "DefaultPrompt": "Where should I ship your order?",
     "DeleteCommand": "delete",
